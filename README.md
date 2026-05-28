@@ -62,24 +62,23 @@ Built for modern data analysts and business leaders who demand the power of Tabl
 * **Dynamic Sidebar Filters:** Refined options adapt dynamically based on unique value counts, dates, and ranges.
 * **Standalone Dashboard Export:** Export the entire filtered state and all active Plotly charts as a single, beautiful, styled, interactive, self-contained HTML file to share with clients or stakeholders.
   ### 7. Multiple AutoML models
-  	Algorithm	R² Score	Mean Absolute Error (MAE)	Root Mean Squared Error (RMSE)	Training Time (s)
-0	KNeighbors Regressor	0.885813449	0.428571429	0.518238776	0.001002312
-1	Huber Regressor	0.870851437	0.466726348	0.551146706	0.017047405
-2	Gaussian Process Regressor	0.863911705	0.503712705	0.565760748	0.003002167
-3	PLS Regression	0.862781701	0.491431293	0.568104778	0.002016306
-4	Linear Regression	0.862781701	0.491431293	0.568104778	0.001999617
-5	Support Vector Regressor	0.847714239	0.483748682	0.598483354	0.001996279
-6	MLP Neural Network	0.845302581	0.509370917	0.603203649	0.270321131
-7	AdaBoost Regressor	0.833575861	0.526556777	0.625648757	0.020009756
-8	Random Forest Regressor	0.826928558	0.518401361	0.638021235	0.194885492
-9	Bayesian Ridge	0.804567149	0.577356098	0.677986756	0.001998901
-10	Gradient Boosting Regressor	0.763118154	0.598100003	0.746428677	0.081744432
-11	Extra Trees Regressor	0.754400217	0.604285714	0.760039943	0.084421873
-12	Ridge Regression	0.69804453	0.610736395	0.842740524	0.001992226
-13	Decision Tree Regressor	0.665943601	0.642857143	0.88640526	0.002000093
-14	Lasso Regression	-0.053414459	1.397574124	1.574062833	0.005999327
-15	ElasticNet Regression	-0.053414459	1.397574124	1.574062833	0.002005339
-<img width="673" height="494" alt="image" src="https://github.com/user-attachments/assets/8b90a898-1f17-43ec-baa9-bb2c220f6c8b" />
+**KNeighbors Regressor**
+**Huber Regressor**
+**Gaussian Process Regressor**
+**PLS Regression**
+**Linear Regression**
+**Support Vector Regressor**
+**MLP Neural Network**
+**AdaBoost Regressor**
+**Random Forest Regressor**
+**Bayesian Ridge**
+**Gradient Boosting Regressor**
+**Extra Trees Regressor**
+**Ridge Regression**
+**Decision Tree Regressor**
+**Lasso Regression**
+**ElasticNet Regression**
+
 
 ---
 ## 💎 Why DataLens 5.0 Over Enterprise BI?
